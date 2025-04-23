@@ -12,16 +12,17 @@ To be added: Key takeaways, root causes, and remediation insights.
 <details>
 <summary>Click to view screenshots</summary>
 
-**Screenshot 1: Step One (Placeholder)**  
-![Screenshot 1](https://i.imgur.com/placeholder1.jpg)
+**Screenshot 1: Error page revealing internal path**  
+![Screenshot 1](<https://i.imgur.com/QJCjrnB.jpg>)
 
-**Screenshot 2: Step Two (Placeholder)**  
-![Screenshot 2](https://i.imgur.com/placeholder2.jpg)
+**Screenshot 2: Debug info exposed in response headers**  
+![Screenshot 2](<https://i.imgur.com/zkfKLOt.jpg>)
 
-**Screenshot 3: Step Three (Placeholder)**  
-![Screenshot 3](https://i.imgur.com/placeholder3.jpg)
+**Screenshot 3: Sensitive email addresses leaked**  
+![Screenshot 3](<https://i.imgur.com/S2cGjWq.jpg>)
 
 </details>
+
 
 
 
