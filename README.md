@@ -3,7 +3,7 @@
 ## Overview  
 While performing file and directory enumeration, I discovered an exposed backup file on the server containing raw source code. Inside the archive, I found hardcoded credentials and API keys—granting direct access to sensitive backend services.
 
-## Stratagem  
+## Proof of Concept (PoC)  
 I ran directory brute-forcing on the target using a common wordlist and found `/backup.zip` accessible without authentication. After downloading and extracting it, I located the full application source code, including `.env` and configuration files.  
 
 The `.env` file contained:
