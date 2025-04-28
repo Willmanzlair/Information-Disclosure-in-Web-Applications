@@ -44,6 +44,6 @@ Accidentally exposed backups are low-effort discoveries with high-impact consequ
 
 </details>
 
-
+> **Disclosure:** *To protect the confidentiality of client systems, representative lab screenshots demonstrating identical exploitation techniques have been used instead of actual client environment visuals.*
 
 
